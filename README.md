@@ -49,15 +49,12 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Pritamsinghsolanki/github-readme-stats"><img alt="Pritam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pritamsinghsolanki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Pritamsinghsolanki/github-readme-stats"><img alt="Pritam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritamsinghsolanki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamsinghsolanki&show_icons=true&locale=en&layout=compact" alt="pritamsinghsolanki" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritamsinghsolanki&show_icons=true&locale=en" alt="pritamsinghsolanki" /></p>
 
-<br/>
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamsinghsolanki&" alt="pritamsinghsolanki" /></p>
+
 
 <a href="https://github.com/Pritamsinghsolanki/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pritamsinghsolanki&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
