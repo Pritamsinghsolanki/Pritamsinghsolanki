@@ -67,8 +67,8 @@
 <a href = "https://www.linkedin.com/in/pritam-singh-solanki-520363186/?originalSubdomain=in"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
-## ❤ Views and Followers
+## ❤ Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Pritamsinghsolanki">
 </a>
-<a href="https://github.com/Pritamsinghsolanki?tab=followers"><img src="https://img.shields.io/github/followers/Pritamsinghsolanki?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- <a href="https://github.com/Pritamsinghsolanki?tab=followers"><img src="https://img.shields.io/github/followers/Pritamsinghsolanki?label=Followers&style=social" alt="GitHub Badge"></a> -->
