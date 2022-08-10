@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://pritamsinghsolanki.github.io/Portfolio/#/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfoliopritam.herokuapp.com/#/skills)**
 
 - 📫 How to reach me **pritamsinghsolanki2000@gmail.com**
 
