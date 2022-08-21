@@ -36,6 +36,14 @@
     </a>
 </p> -->
 
+<b>&#128200; DSA</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/Pritamsinghsolanki?theme=light&font=Karma&ext=contest" />
+<!-- <img height="280em" src="https://raw.githubusercontent.com/pritam_2111/cf-stats/main/output/light_card.svg" /> -->
+  
+</p>
+
+
 ## 📊 My Github Stats
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamsinghsolanki&show_icons=true&locale=en&layout=compact" alt="pritamsinghsolanki" /></p>
