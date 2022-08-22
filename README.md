@@ -38,7 +38,7 @@
 
 <b>&#128200; DSA</b>
 <p float="center">
-
+<img height="300em" src="https://leetcard.jacoblin.cool/Pritamsinghsolanki?theme=light&font=Karma&ext=contest" />
 <!-- <img height="280em" src="https://raw.githubusercontent.com/pritam_2111/cf-stats/main/output/light_card.svg" /> -->
   
 </p>
