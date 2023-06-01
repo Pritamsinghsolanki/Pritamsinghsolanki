@@ -2,7 +2,8 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<a href="#"><img img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU"></a>
+<!-- <a href="#"><img img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU"></a> -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pritam</h1>
 <!-- <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer.</h3>
@@ -53,7 +54,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamsinghsolanki&" alt="pritamsinghsolanki" /></p>
 
 
-<a href="https://github.com/Pritamsinghsolanki/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pritamsinghsolanki&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 <br/>
