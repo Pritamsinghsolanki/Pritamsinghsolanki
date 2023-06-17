@@ -37,13 +37,38 @@
     </a>
 </p> -->
 
-<b>&#128200; DSA</b>
+<!-- <b>&#128200; DSA</b>
 <p float="center">
 <img height="300em" src="https://leetcard.jacoblin.cool/Pritamsinghsolanki?theme=light&font=Karma&ext=contest" />
-<!-- <img height="280em" src="https://raw.githubusercontent.com/pritam_2111/cf-stats/main/output/light_card.svg" /> -->
+<img height="280em" src="https://raw.githubusercontent.com/pritam_2111/cf-stats/main/output/light_card.svg" /> 
   
-</p>
+</p> -->
 
+<div id="badges" align="center">
+  <!--
+  <a href="https://www.linkedin.com/in/gautam-jha-6545ab240/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" alt="LinkedIn Badge"/>
+  </a>
+-->
+  <a href="https://leetcode.com//" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-yellow?logo=leetCode&logoColor=black&style=for-the-badge" width="100" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://twitter.com/Pritamsinghsolanki" target="_blank">
+  <img src=https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
+ width="100" alt="Twitter Badge"/>
+
+  <a href="https://auth.geeksforgeeks.org/user/singhpritam/practice" target="_blank">
+  <img src=https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=GeeksforGeeks&logoColor=white
+ width="100" alt="GFG Badge"/>
+  </a>
+</div>
+
+
+<div align="center">
+<h2>&#128200; DSA</h2>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pritamsinghsolanki?theme=dark&font=Karla&ext=heatmap)
+</div>
 
 ## 📊 My Github Stats
 
