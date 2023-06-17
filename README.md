@@ -53,7 +53,7 @@
   <a href="https://leetcode.com//" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-yellow?logo=leetCode&logoColor=black&style=for-the-badge" width="100" alt="LeetCode Badge"/>
   </a>
-  <a href="https://twitter.com/Pritamsinghsolanki" target="_blank">
+  <a href="https://twitter.com/PritamSinghso16" target="_blank">
   <img src=https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
  width="100" alt="Twitter Badge"/>
 
